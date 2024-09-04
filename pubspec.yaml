@@ -1,0 +1,25 @@
+name: soko_soko_db
+description: A starting point for Dart libraries or applications.
+version: 0.1.0+1
+repository: https://github.com/zxcvbnmmohd/SokoSokoDB
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  encrypt: ^5.0.3
+
+  sqflite: ^2.3.3+1
+
+  path: ^1.9.0
+
+dev_dependencies:
+  import_sorter: ^4.6.0
+
+  lints: ^4.0.0
+
+  test: ^1.25.8
+
+import_sorter:
+  emojis: true
+  comments: true
